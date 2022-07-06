@@ -1,0 +1,27 @@
+.navbar_modificaciones {
+    height: 120px;
+}
+
+.navbar_modificaciones a  {
+    color: white;
+}
+
+.navbar_modificaciones a:hover {
+    color: cornflowerblue;
+}
+
+.footer_nav a:hover{
+    color: cornflowerblue
+}
+
+.efectos_tarjetas {
+    box-shadow: 0px 25px 50px -12px #7a7c7c;
+    transition: transform 0.3s;
+    width: 1500px;
+}
+
+
+.efectos_tarjetas:hover {
+    transform: translateY(-30px); 
+}
+
